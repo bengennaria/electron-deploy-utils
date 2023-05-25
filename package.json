@@ -1,13 +1,13 @@
 {
-  "name": "@sidneys/electron-deploy-utils",
+  "name": "@bengennaria/electron-deploy-utils",
   "version": "0.19.0",
   "description": "Deployment utility library for Electron-based desktop apps",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/sidneys",
+  "homepage": "https://github.com/bengennaria",
   "author": {
-    "name": "sidneys",
-    "email": "sidneys.github.io@outlook.com",
-    "url": "https://bitbucket.org/sidneys"
+    "name": "bengennaria",
+    "email": "ben.gennaria@gmail.com",
+    "url": "https://github.com/bengennaria"
   },
   "engines": {
     "node": ">= 12.0.0",
@@ -18,7 +18,7 @@
     "tools"
   ],
   "dependencies": {
-    "@sidneys/logger": "^1.151.0",
+    "@bengennaria/logger": "git+https://bengennaria@github.com/bengennaria/logger.git",
     "globby": "^11.0.2"
   },
   "devDependencies": {
