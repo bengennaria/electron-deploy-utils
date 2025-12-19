@@ -18,7 +18,7 @@
     "tools"
   ],
   "dependencies": {
-    "@bengennaria/logger": "git+https://bengennaria@github.com/bengennaria/logger.git",
+    "@bengennaria/logger": "github:bengennaria/logger",
     "globby": "^11.0.2"
   },
   "devDependencies": {
